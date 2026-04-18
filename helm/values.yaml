@@ -1,6 +1,6 @@
 image:
   repository: lewismoe/minikube-time-printer
-  tag: "3491621"
+  tag: "8132ca2"
   pullPolicy: Always
 
 service:
