@@ -1,0 +1,8 @@
+image:
+  repository: lewismoe/minikube-time-printer
+  tag: "62575f1"
+  pullPolicy: Always
+
+service:
+  type: ClusterIP
+  port: 80
